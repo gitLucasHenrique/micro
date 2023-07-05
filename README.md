@@ -1,11 +1,11 @@
 # Micro FE test
 
-- To run host:
-cd host
-yarn
-yarn start
+## running host:
+* cd host
+* yarn
+* yarn start
 
-- To run remote:
-cd remote
-yarn
-yarn start
+## running remote:
+* cd remote
+* yarn
+* yarn start
